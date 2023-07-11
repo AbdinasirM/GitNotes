@@ -1,0 +1,23 @@
+what is repository:
+it is a workspace which tracks and manages files with in a folder.
+
+
+checking the status of the current repository:
+git status
+
+
+
+creating a new git repository
+1. initialize the repository:(practicing this in the testrepo folder)
+    git init
+inside the testrepo folder there will .git directory after you run the command above.
+
+2. navigate to .git folder:
+    cd .git
+
+
+**DO NOT initialize A repository inside another repository
+
+Commiting contents to a repository:
+1. add our changes to a staging area before we commit to the repository
+    (git add file (for one file that t=)) or git add file1 file2 or git add .(add all the changes to the staging area)

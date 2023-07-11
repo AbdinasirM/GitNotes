@@ -1,0 +1,12 @@
+setting up the user name:
+git config --global user.name "your name"
+
+to check if there is a user name already set up on the machine use the command below:
+git config user.name
+
+
+setting up the user email:
+git config --global user.email aabdi5520@gmail
+
+to check if there is an email already set up on the machine use the command below:
+git config user.email
