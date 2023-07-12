@@ -21,3 +21,5 @@ inside the testrepo folder there will .git directory after you run the command a
 Commiting contents to a repository:
 1. add our changes to a staging area before we commit to the repository
     (git add file (for one file that t=)) or git add file1 file2 or git add .(add all the changes to the staging area)
+2. commit our changes to the repository:
+    git commit -m "comment about the changes"
